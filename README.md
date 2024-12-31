@@ -1,6 +1,7 @@
-# [HR Analytics Dashboard using Power BI 🔗](https://drive.google.com/file/d/1h30yQ-tukzdef7TLYNqnkKJKS_5BZZmr/view?usp=sharing)
+# HR-Analytics-Dashboard-using-Power-BI-
+## Dashboard Link - https://app.powerbi.com/links/-eV_Dni6cN?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare
 
-## Objective
+## Objective and Problem Statement
 
 The objective of this project is to identify the key factors driving employee attrition and provide actionable insights for improving workforce retention in an organization.
 This dashboard provides insights of the attrition of an organization which helps the HR team for their further analysis.
